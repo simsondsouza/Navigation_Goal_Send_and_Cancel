@@ -1,11 +1,10 @@
-file:///home/simson/Videos/Screencasts/Void%20Robotics%20Task%20Working%20Video.webm
+https://github.com/SimsonDsouza/Void-Robotics-Internship-Application-Task/assets/66258060/27ccdd25-8b92-4cb7-85a0-0f0a3dfb4d48
 
-
-Task:
+### Task:
 - The task was to create a C++ ROS2 node that when run will stop the robot.
 
 
-To accomplish this Task:
+### To accomplish this Task:
 - The robot used in this taks is "turtlebot3 burger model". The necessary gazebo simulation and navigation files are cloned from the open-source turtlebot3 github repository.
 - Turtlbot3 Packages Used:
   
@@ -21,7 +20,7 @@ To accomplish this Task:
   b) goal_cancel.cpp: Action client is create to cancel the active goal. Thus, on running this node, the robot stops as the goal gets cancelled.
 
 
-Run the following commands in the terminal to test:
+### Run the following commands in the terminal to test:
 
 Note:
 - Change to the workspace location in which this project files are present
@@ -39,7 +38,7 @@ D) Terminal 4
 - ros2 run my_robot_control goal_cancel.cpp
 
 
-List of resources in use to complete this task:
+### List of resources in use to complete this task:
 
 A) To setup Turtlebot3 simulation
 - https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
