@@ -44,7 +44,7 @@ A) To setup Turtlebot3 simulation
 - https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
   
 B) ROS2 Humble Documentation (To undersand Action Client, Action Server and other important topics)
-- thttps://docs.ros.org/en/humble/Tutorials/Intermediate/Writing-an-Action-Server-Client/Cpp.html
+- https://docs.ros.org/en/humble/Tutorials/Intermediate/Writing-an-Action-Server-Client/Cpp.html
   
 C) For sending goal, I used the following code as reference
 - https://qiita-com.translate.goog/porizou1/items/cb9382bb2955c144d168?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc
